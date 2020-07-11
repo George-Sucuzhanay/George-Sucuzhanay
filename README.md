@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**George-Sucuzhanay/George-Sucuzhanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is George Sucuzhanay, I'm a front-end developer, and I love creating websites and coding!
 
-Here are some ideas to get you started:
+## About Me
+* 📖 Passionate about learning new programming langauges 
+* 🏠 Enjoy mentoring others
+* 🛠 I love building websites and collaborating with teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Skills
+* Front-end Languages: HTML, CSS and JavaScript
+* Skills: Trello, Google Suite, Git/Github, Bootstrap, WordPress, Visual Studio Code
+* UX Design: Figma
+
+## Let's get in contact!
+* 📧 Email: [georgesucuzhanay100@gmail.com](mailto:georgesucuzhanay100@gmail.com)
+* 📷 Instagram: [@george_sucuzhanay](https://instagram.com/george_sucuzhanay)
+* 💼 LinkedIn: [@georgesucuzhanay](https://linkedin.com/in/georgesucuzhanay)
+* 😎 Personal Website: [georgesucuzhanay.tech.blog](https://www.georgesucuzhanay.tech.blog/)
+* 📝 Blog: [genztechmedia.wordpress.com](https://genztechmedia.wordpress.com)
