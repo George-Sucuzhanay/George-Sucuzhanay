@@ -10,7 +10,6 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 #### My Skills
 * Programming Languages: HTML, CSS and JavaScript
 * Skills: Trello, Google Suite, Git/Github, Bootstrap, WordPress, Visual Studio Code
-* UX Design: Figma
 
 ## Let's get in contact!
 * 📧 Email: [georgesucuzhanay100@gmail.com](mailto:georgesucuzhanay100@gmail.com)
