@@ -8,7 +8,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 🛠 I love building websites and collaborating with teams
 
 #### My Skills
-* Front-end Languages: HTML, CSS and JavaScript
+* Programming Languages: HTML, CSS and JavaScript
 * Skills: Trello, Google Suite, Git/Github, Bootstrap, WordPress, Visual Studio Code
 * UX Design: Figma
 
