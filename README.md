@@ -6,6 +6,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 📖 Passionate about learning new programming langauges 
 * 🏠 Enjoy mentoring others
 * 🛠 I love building websites and collaborating with teams
+* 🛠 Currently learning about Java and Python
 
 #### My Skills
 * Programming Languages: HTML, CSS and JavaScript
