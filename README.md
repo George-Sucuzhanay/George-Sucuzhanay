@@ -4,7 +4,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 
 ## About Me
 * 📖 Passionate about learning new programming langauges 
-* 🏠 Enjoy mentoring others
+* 🏠 Enjoy mentoring others and creating websites
 * 🛠 I love building websites and collaborating with teams
 * 🛠 Currently learning about Java and Python
 
