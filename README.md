@@ -9,7 +9,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 🛠 Currently learning about Java and Python
 
 #### My Skills
-* Programming Languages: HTML, CSS and JavaScript
+* Development: HTML, CSS and JavaScript
 * Skills: Trello, Google Suite, Git/Github, Bootstrap, WordPress, Visual Studio Code, Trello
 
 ## Let's get in contact!
