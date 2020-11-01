@@ -6,7 +6,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 📖 Passionate about learning new programming langauges 
 * 🏠 Enjoy mentoring others and creating websites
 * ❤️ I love building websites and collaborating with teams
-* 🛠 Currently learning about JavaScript and React
+* 🛠 Currently learning about JavaScript and ReactJS
 
 #### My Skills
 * Development: HTML, CSS, JavaScript and Java (Basic), ReactJS
