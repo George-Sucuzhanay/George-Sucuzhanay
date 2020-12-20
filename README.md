@@ -16,5 +16,5 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 📧 Email: [georgesucuzhanay100@gmail.com](mailto:georgesucuzhanay100@gmail.com)
 * 📷 Instagram: [@george_sucuzhanay](https://instagram.com/george_sucuzhanay)
 * 💼 LinkedIn: [@georgesucuzhanay](https://linkedin.com/in/georgesucuzhanay)
-* 😎 Personal Website: [georgesucuzhanay.tech.blog](https://www.georgesucuzhanay.tech.blog/)
+* 😎 Personal Website: [george-sucuzhanay.github.io](https://george-sucuzhanay.github.io/)
 * 📝 Blog: [genztechmedia.wordpress.com](https://genztechmedia.wordpress.com)
