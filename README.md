@@ -9,7 +9,7 @@ My name is George Sucuzhanay, I'm a front-end developer, and I love creating web
 * 🛠 Currently learning about JavaScript and ReactJS
 
 #### My Skills
-* Development: HTML, CSS, JavaScript and Java (Basic), ReactJS
+* Development: HTML/CSS, JavaScript,Python, Golang and Java (Basic)
 * Skills: Bootstrap, Visual Studio Code, Trello, WordPress
 
 ## Let's get in contact!
