@@ -14,12 +14,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-sucuzhanay&show_icons=true&locale=en&layout=compact" alt="george-sucuzhanay" /></p>
 
-
-
-### Hey there! 👋
-
-My name is George Sucuzhanay, I'm a front-end developer, and I love creating websites and coding!
-
 ## About Me
 * 📖 Passionate about learning new programming langauges 
 * 🏠 Enjoy mentoring others and creating websites
