@@ -27,21 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=george-sucuzhanay&show_icons=true&locale=en&layout=compact" alt="george-sucuzhanay" /></p>
 
 
-
-
-## About Me
-* 📖 Passionate about learning new programming langauges 
-* 🏠 Enjoy mentoring others and creating websites
-* ❤️ I love building websites and collaborating with teams
-* 🛠 Currently learning about JavaScript and ReactJS
-
-#### My Skills
-* Development: HTML/CSS, JavaScript,Python, Golang and Java (Basic)
-* Skills: Bootstrap, Visual Studio Code, Trello, WordPress
-
-## Let's get in contact!
-* 📧 Email: [georgesucuzhanay100@gmail.com](mailto:georgesucuzhanay100@gmail.com)
-* 📷 Instagram: [@george_sucuzhanay](https://instagram.com/george_sucuzhanay)
-* 💼 LinkedIn: [@georgesucuzhanay](https://linkedin.com/in/georgesucuzhanay)
-* 😎 Personal Website: [george-sucuzhanay.github.io](https://george-sucuzhanay.github.io/)
-* 📝 Blog: [genztechmedia.wordpress.com](https://genztechmedia.wordpress.com)
