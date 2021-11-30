@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm George Sucuzhanay</h1>
 <h3 align="center">A passionate developer from New York City</h3>
 
-- 🔭 I’m currently working on [US National Park API Project](https://george-sucuzhanay.github.io/nationalparkapi-project/)
+- 🔭 I’m currently working on [You Got This Dev! Web App](https://github.com/George-Sucuzhanay/tkh-phase1-project)
 
 - 🌱 I’m currently learning **async JS functions and C++**
 
