@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [You Got This Dev! Web App](https://github.com/George-Sucuzhanay/tkh-phase1-project)
 
-- 🌱 I’m currently learning **async JS functions and C++**
+- 🌱 I’m currently learning **ReactJS and C++**
 
 - 👨‍💻 All of my projects are available at [http://george-sucuzhanay.github.io/](http://george-sucuzhanay.github.io/)
 
