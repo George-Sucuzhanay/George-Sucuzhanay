@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/georgesucuzhanay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgesucuzhanay/" height="30" width="40" /></a>
-<a href="https://instagram.com/george_sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_sucuzhanay" height="30" width="40" /></a>
+<a href="https://instagram.com/cs_george.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_sucuzhanay" height="30" width="40" /></a>
 <a href="https://medium.com/@george_sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@george_sucuzhanay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/george sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="george sucuzhanay" height="30" width="40" /></a>
 </p>
