@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS and C++**
 
-- 👨‍💻 All of my projects are available at [http://george-sucuzhanay.github.io/](http://george-sucuzhanay.github.io/)
-
 - 📝 I regularly write articles on [https://medium.com/@george_sucuzhanay](https://medium.com/@george_sucuzhanay)
 
 - 📫 How to reach me **georgesucuzhanay100@gmail.com**
