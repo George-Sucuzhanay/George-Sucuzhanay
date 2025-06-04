@@ -1,20 +1,18 @@
 <h1 align="center">👋 Hi, I'm George Sucuzhanay</h1>
 <h3 align="center">A passionate developer from New York City</h3>
 
-- 🔭 I’m currently working on [You Got This Dev! Web App](https://github.com/George-Sucuzhanay/tkh-phase1-project)
-
-- 🌱 I’m currently learning **ReactJS and C++**
+- 🌱 I’m proficent in **ReactJS and Python**
 
 - 📝 I regularly write articles on [https://medium.com/@george_sucuzhanay](https://medium.com/@george_sucuzhanay)
 
 - 📫 How to reach me **georgesucuzhanay100@gmail.com**
+- ✨ Check out my personal website [george-sucuzhanay.netlify.app/](https://george-sucuzhanay.netlify.app/)
 
 - ⚡ Fun fact: **I teach students computer science 👨‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/georgesucuzhanay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgesucuzhanay/" height="30" width="40" /></a>
-<a href="https://instagram.com/cs_george.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="george_sucuzhanay" height="30" width="40" /></a>
 <a href="https://medium.com/@george_sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@george_sucuzhanay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/george sucuzhanay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="george sucuzhanay" height="30" width="40" /></a>
 </p>
